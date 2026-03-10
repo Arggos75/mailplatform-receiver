@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"C:/Users/amarc/IdeaProjects/mailplateform_receiver/src/main/java/com/mailplatform/receiver/entity\" && mkdir -p \"C:/Users/amarc/IdeaProjects/mailplateform_receiver/src/main/java/com/mailplatform/receiver/repository\" && mkdir -p \"C:/Users/amarc/IdeaProjects/mailplateform_receiver/src/main/java/com/mailplatform/receiver/controller\" && mkdir -p \"C:/Users/amarc/IdeaProjects/mailplateform_receiver/src/main/resources\")"
+    ]
+  }
+}
